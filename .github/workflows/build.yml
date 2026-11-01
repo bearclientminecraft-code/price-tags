@@ -30,3 +30,4 @@ jobs:
           path: |
             build/libs/*.jar
             !build/libs/*-sources.jar
+            
