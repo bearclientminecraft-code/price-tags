@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "pricetags",
+	"version": "${version}",
+	"name": "Price Tags",
+	"description": "Shows custom ~$ price lines under item names, read from config/pricetags.txt.",
+	"authors": [
+		"You"
+	],
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"dev.pricetags.PriceTagsMod"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.18.0",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
