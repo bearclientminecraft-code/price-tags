@@ -3,7 +3,7 @@
 	"id": "pricetags",
 	"version": "${version}",
 	"name": "Price Tags",
-	"description": "Shows custom ~$ price lines under item names, read from config/pricetags.txt.",
+	"description": "Shows custom ~ price lines under item names, read from config/pricetags.txt.",
 	"authors": [
 		"You"
 	],
